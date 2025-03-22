@@ -1,0 +1,12 @@
+{
+  "name": "threejs-video-screen",
+  "version": "1.0.0",
+  "description": "A simple video plane mesh for React Three Fiber",
+  "license": "ISC",
+  "author": "AtharvAgarwal20",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
