@@ -1,7 +1,24 @@
 {
-  "name": "threejs-video-screen",
+  "name": "r3f-video-screen",
   "version": "1.0.0",
   "description": "A simple video plane mesh for React Three Fiber",
+  "keywords": [
+    "react",
+    "three",
+    "fiber",
+    "r3f",
+    "video",
+    "plane",
+    "mesh"
+  ],
+  "homepage": "https://github.com/AtharvAgarwal20/r3f-video-screen#readme",
+  "bugs": {
+    "url": "https://github.com/AtharvAgarwal20/r3f-video-screen/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AtharvAgarwal20/r3f-video-screen.git"
+  },
   "license": "ISC",
   "author": "AtharvAgarwal20",
   "type": "commonjs",
